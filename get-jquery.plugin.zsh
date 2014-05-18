@@ -26,7 +26,7 @@ EOF
         _get_jquery_sources
     fi
 
-    if [[ -z $jquery_version ]]; then
+    if [[ -z $jquery_version[2] ]]; then
         url=http://code.jquery.com/jquery.js
     else
         url=$(echo $ZSH_PLUGIN_JQUERY_SOURCES | sed -rne "s/^$jquery_version[2] (.*)$/\1/p")
