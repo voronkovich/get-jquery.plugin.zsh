@@ -33,7 +33,7 @@ Examples:
 Demo
 ----
 
-[Imgur](http://i.imgur.com/X599HC2.gif)
+![gif](http://i.imgur.com/X599HC2.gif)
 
 License
 -------
