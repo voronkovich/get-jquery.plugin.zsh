@@ -8,7 +8,7 @@ Installation
 
 Antigen:
     
-    antigen bundle voronkovich/gitignore.plugin.zsh
+    antigen bundle voronkovich/get-jquery.plugin.zsh
 
 Or clone this repo and add this into your .zshrc:
 
